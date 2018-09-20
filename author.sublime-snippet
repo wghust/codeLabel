@@ -1,12 +1,12 @@
 <snippet>
   <content><![CDATA[
 /**
-* Author:     "${1:Tbj}",
-* QQ:         "${2:1075296345}"
-* Email:      "${3:tbjf2e@tongbanjie.com}"
-* Date:       "${4:ctrl+d}"
-* Version:    "${5:0.1.0}"
-* Description "${6:暂无}"
+* Author:      "${1:Tbj}",
+* QQ:          "${2:1075296345}"
+* Email:       "${3:tbjf2e@tongbanjie.com}"
+* Date:        "${4:ctrl+d}"
+* Version:     "${5:0.1.0}"
+* Description: "${6:tbj}"
 **/
 
 ]]></content>
